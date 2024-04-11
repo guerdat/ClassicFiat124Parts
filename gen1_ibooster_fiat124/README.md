@@ -15,20 +15,22 @@ ADDITIONAL INFO:
 The Honda master cylinder only has two circuits with M12x1.0 outlets. Adapters are necessary to use the smaller 3/16 line size that is stock on Fiat 124. A Tee block is also necessary to split the front brake circuit. 
 This was adapted to an early 124 Sedan that came with manual brakes. The brake pedal on early cars is different and will need to be replaced with a late model pedal to use the ibooster. 
 The ibooster will typcally remain powered on and available for ~20 seconds after the ignition is switched off before sleeping. The iBooster can take ~1 second to activate when the ignition is switched on. 
-Various sites offer the bosch iBooster plugs and pins to be able to wire up the power necessary for the unit. Part numbers for the connectors and pins: 
+Various sites offer the bosch iBooster plugs and pins to be able to wire up the power necessary for the unit. 
+Part numbers for the connectors and pins:
 - Bosch 026 EuCon Connector: 1 928 405 762; - 763; -764. (Check keying on your device)
 - 1.5mm Terminals: 1 928 498 705; 1 928 498 805. (Depending on wire/insulation diameter required)
-- 2.8mm Terminals: 1 928 498 806.
-- 4.8mm Terminals: 1 928 498 807.
+- 2.8mm Terminals: 1 928 498 806
+- 4.8mm Terminals: 1 928 498 807
+
 Main pin-outs wire as follows: 
-- 1. +12v constant
-- 2. Pedal sensor
-- 8. Pedal sensor
-- 9. Ground
-- 17. +12v constant
-- 20. +12v ignition
-- 22. Pedal sensor
-- 23. Pedal sensor
+- 1 +12v constant
+- 2 Pedal sensor
+- 8 Pedal sensor
+- 9 Ground
+- 17 +12v constant
+- 20 +12v ignition
+- 22 Pedal sensor
+- 23 Pedal sensor
 iBooster Pedal Clevis has M10x1.5 threads that uses an M8 pin 
 
 
