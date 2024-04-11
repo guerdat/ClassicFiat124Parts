@@ -36,7 +36,9 @@ Main pin-outs wire as follows:
 - 22 Pedal sensor
 - 23 Pedal sensor
 ```
-iBooster Pedal Clevis has M10x1.5 threads that uses an M8 pin 
+iBooster Pedal Clevis has M10x1.5 threads that uses an M8 pin
+
+[Photos of installation] (https://imgur.com/a/Ook0j3Y) 
 
 
 

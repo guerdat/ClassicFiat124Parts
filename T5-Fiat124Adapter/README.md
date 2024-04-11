@@ -12,5 +12,6 @@ This bellhousing adapter assumes you are using a custom input shaft for the T5. 
 
 Transmission mount uses rubber pieces PN ANCHOR 3270 from a 2018 Cadillac ATS. Mounts from some series of BMW will also work. 
 
+[Images of work done here] (https://imgur.com/a/ZkyI8)
 
 See LICENSE.txt in project root for any licensing info
